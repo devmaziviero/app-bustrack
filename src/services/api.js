@@ -6,7 +6,7 @@ import axios from 'axios';
 // });
 
 const api = axios.create({
-  baseURL: 'https://stately-downier-marie.ngrok-free.dev',
+  baseURL: 'https://bustrack-api.onrender.com',
 });
 
 api.interceptors.request.use(async (config) => {
