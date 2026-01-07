@@ -10,7 +10,7 @@ O aplicativo conta com **login e criação de usuários**, integração com **ba
 
 ## 📸 Preview
 
-![Preview do BusTrack App](./Animação.gif)
+![Preview do BusTrack App](./Animação.gif) ![Preview do BusTrack App](./Animação2.gif)
 
 ---
 
